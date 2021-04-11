@@ -1,0 +1,1 @@
+data class Test(val string:String,val number:Int,val boolean:Boolean)
